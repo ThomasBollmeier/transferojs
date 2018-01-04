@@ -1,0 +1,20 @@
+{
+  "name": "transfero-js",
+  "version": "1.0.0",
+  "description": "TransferoJS is a JavaScript port of my [transfero parser combinator library][1] that was originally developed in Python.",
+  "main": "src/transfero/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBollmeier/transferojs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasBollmeier/transferojs/issues"
+  },
+  "homepage": "https://github.com/ThomasBollmeier/transferojs#readme"
+}
